@@ -64,7 +64,14 @@ Make sure Python 3 and the required library are installed:
 ```bash
 pip install pandas
 
-##Run:
+## ▶️ How to Run
+
+```bash
 python medical_cleaning.py
+
+Output:
+
+<img width="720" height="603" alt="Screenshot 2025-09-22 205030" src="https://github.com/user-attachments/assets/4ddb3c9a-e21c-444a-89bc-385ed87f1772" />
+
 
 <img width="720" height="603" alt="Screenshot 2025-09-22 205030" src="https://github.com/user-attachments/assets/69fb57d3-8b77-4cd1-99b8-f041d0d99227" />
