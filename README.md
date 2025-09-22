@@ -1,4 +1,4 @@
-# Topic:🧹 Medical Appointments Data Cleaning Script
+# 🧹 Medical Appointments Data Cleaning Script
 
 This repository contains a Python script to clean and preprocess the **"Medical Appointment No Shows"** dataset from Kaggle. The dataset includes information about patients and whether they showed up for their scheduled medical appointments.
 
@@ -57,21 +57,17 @@ This repository contains a Python script to clean and preprocess the **"Medical 
 
 ---
 
-## 🛠️ Requirements
+## 🛠️ Requirements, How to Run, and Output Screenshots
 
 Make sure Python 3 and the required library are installed:
 
 ```bash
 pip install pandas
+```
 
-## ▶️ How to Run
-
-```bash
+To run the script:
 python medical_cleaning.py
 
-Output:
+## Output ScreenShot:
+<img width="720" height="603" alt="Screenshot 2025-09-22 205030" src="https://github.com/user-attachments/assets/2eaaed59-c884-4bbf-8818-e79369850602" />
 
-<img width="720" height="603" alt="Screenshot 2025-09-22 205030" src="https://github.com/user-attachments/assets/4ddb3c9a-e21c-444a-89bc-385ed87f1772" />
-
-
-<img width="720" height="603" alt="Screenshot 2025-09-22 205030" src="https://github.com/user-attachments/assets/69fb57d3-8b77-4cd1-99b8-f041d0d99227" />
